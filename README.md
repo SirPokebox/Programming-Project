@@ -1,4 +1,4 @@
-# Portfolio
+# Programming Hackathon Project
 For this programming Hackathon styled assignment, I had to develop a client-server application, an android app that connects to a
 server which was provided, to retrieve data for it, and display the results. The application had to use GPS, to find out the names
 and distance to the nearest railway stations. I was working with the android geolocation API, and had to parse JSON.
